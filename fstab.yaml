@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: https://author-p123907-e1219190.adobeaemcloud.com//bin/franklin.delivery/jogi-chetan/aem-ue-securbank/main
+    url: https://author-p123907-e1219190.adobeaemcloud.com/bin/franklin.delivery/jogi-chetan/aem-ue-securbank/main
     type: markup
     suffix: ".html?wcmmode=disabled"
