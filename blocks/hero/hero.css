@@ -83,7 +83,7 @@ main .hero img {
   left: 909px;
   top: -110px;
   overflow: visible;
-  background-color: white;
+  background-color: black;
 }
 #log-in .login-form__message {
   overflow: visible;
